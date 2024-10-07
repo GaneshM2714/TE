@@ -5,7 +5,7 @@ public class InvDB {
     // Include server timezone and SSL settings in the URL
     private static final String DB_URL = "jdbc:mysql://localhost:3306/mock";
     private static final String USR = "root";
-    private static final String PWD = "ganu2714";
+    private static final String PWD = "";
 
     public static void main(String[] args) {
         try {
